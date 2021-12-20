@@ -6,7 +6,7 @@ let imageName = process.argv[2]
 let outpath = process.argv[3]
 
 /**
- * 删除文件夹功能
+ * delete dir function
  * @param  {String} url
  * @return {Null}
  */
