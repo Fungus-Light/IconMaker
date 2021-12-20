@@ -1,0 +1,30 @@
+{
+    "AllSize":[
+        {
+            "key":"LDPI",
+            "size": 36
+        },
+        {
+            "key":"MDPI",
+            "size": 48
+        },
+        {
+            "key":"HDPI",
+            "size": 72
+        },
+        {
+            "key":"XHDPI",
+            "size": 96
+        },
+        {
+            "key":"XXHDPI",
+            "size": 144
+        },
+        {
+            "key":"XXXHDPI",
+            "size": 192
+        }
+    ],
+    "Prefix":"mipmap",
+    "FileName":"ic_launcher.png"
+}
